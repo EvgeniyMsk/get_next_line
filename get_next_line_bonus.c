@@ -6,11 +6,11 @@
 /*   By: qsymond <qsymond@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/01 00:01:37 by qsymond           #+#    #+#             */
-/*   Updated: 2020/06/01 00:05:40 by qsymond          ###   ########.fr       */
+/*   Updated: 2020/06/01 23:49:40 by qsymond          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 static int		write_to_table(char **fd_tab, int fd, char *nl_ptr)
 {
